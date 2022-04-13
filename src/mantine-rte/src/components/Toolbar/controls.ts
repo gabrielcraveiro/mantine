@@ -13,7 +13,7 @@ import {
   VideoIcon,
   QuoteIcon,
   CodeIcon,
-} from '@modulz/radix-icons';
+} from '@radix-ui/react-icons';
 import { OrderedList, H1, H2, H3, H4, H5, H6, Sub, Sup } from './icons';
 
 export const CONTROLS = {
